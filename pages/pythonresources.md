@@ -74,6 +74,7 @@ We have a recommended installation process [linked here](/learn).
 - [PySchools](http://doc.pyschools.com/console)
 - [Codecademy Labs](http://labs.codecademy.com)
 - [Wakari.io](http://wakari.io) (for Jupyter notebooks)
+- [pynerds](https://www.pynerds.com/compiler/)
 
 #### On your own computer
 If you are using OS X or Linux (or similar), you likely already have Python
